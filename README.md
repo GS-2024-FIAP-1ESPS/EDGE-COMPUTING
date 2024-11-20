@@ -17,6 +17,7 @@ le simula um sistema de monitoramento para micro-redes comunitárias de energia 
 **Wowki**: [Clique aqui para acessar a simulação](https://wokwi.com/projects/414817325892975617)
 
 
+
 ## Explicação do Projeto 🔍
 ### Sistema de Monitoramento Comunitário para Energia Renovável
 O projeto baseia-se em um sistema que monitora a temperatura, umidade e o nível de capacidade de armazenamento de energia (simulado pelo sensor ultrassônico), com resultado visual através de um LED e um display LCD. O sistema alerta a comunidade sobre condições extremas ou capacidade máxima de armazenamento, promovendo uma gestão consciente da energia.
