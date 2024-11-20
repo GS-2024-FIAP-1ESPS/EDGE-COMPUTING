@@ -6,22 +6,25 @@
 - Gabrielly Candido Camargo da Silva RM: 560916
 - Luiza Saraçol Ribeiro RM: 560200
 
+---
 
 ## Sobre o Projeto 📚
 
 le simula um sistema de monitoramento para micro-redes comunitárias de energia renovável, utilizando sensores e dispositivos para medir e exibir dados sobre condições ambientais e níveis de energia armazenada. O projeto promove a sustentabilidade e a educação para uma gestão consciente de recursos energéticos.
 
+---
 
 ## Link para Simulação 🌐 
 
 **Wowki**: [Clique aqui para acessar a simulação](https://wokwi.com/projects/414817325892975617)
 
-
+---
 
 ## Explicação do Projeto 🔍
 ### Sistema de Monitoramento Comunitário para Energia Renovável
 O projeto baseia-se em um sistema que monitora a temperatura, umidade e o nível de capacidade de armazenamento de energia (simulado pelo sensor ultrassônico), com resultado visual através de um LED e um display LCD. O sistema alerta a comunidade sobre condições extremas ou capacidade máxima de armazenamento, promovendo uma gestão consciente da energia.
 
+---
 
 ### Componentes e Funcionalidades:
 1. **DHT22 (Sensor de Temperatura e Umidade)**  
@@ -39,6 +42,7 @@ O projeto baseia-se em um sistema que monitora a temperatura, umidade e o nível
    - Exibe temperatura e umidade.  
    - Mostra o nível de energia (em %) e mensagens educativas.
 
+---
 
 ## Objetivos do Projeto 🎯
 
@@ -54,6 +58,7 @@ O projeto baseia-se em um sistema que monitora a temperatura, umidade e o nível
 4. **Coleta de Dados para Decisões**  
    Demonstrar como dados ambientais podem ser usados para decisões em micro-redes de energia renovável.  
 
+---
 
 ## Impactos do Projeto 💡
 
@@ -72,6 +77,7 @@ O projeto baseia-se em um sistema que monitora a temperatura, umidade e o nível
 ### **4. Escalabilidade**
 - O modelo pode ser expandido para incluir painéis solares, turbinas eólicas e outras fontes de energia renovável, criando um sistema integrado de monitoramento.
 
+---
 
 ## Componentes Utilizados 📦
 
@@ -82,6 +88,7 @@ O projeto baseia-se em um sistema que monitora a temperatura, umidade e o nível
 - **Resistores e Fios de Conexão** - Para montagem do circuito.  
 - **Placa Arduino Uno** - Microcontrolador para processamento e integração dos sensores.
 
+---
 
 ## Circuito
 ![image](https://github.com/user-attachments/assets/c72b97b1-cc72-4ce0-8383-38c15d2f3d01)
