@@ -1,5 +1,6 @@
 # GS-2024-FIAP-1ESPS
 ## Projeto de sustentabilidade desenvolvido na disciplina de Edge Computing para Global Solution da FIAP.
+## Link Wowki: https://wokwi.com/projects/414817325892975617
 
 ## Integrantes
 - Estefany Caetano de Jesus RM: 560181
