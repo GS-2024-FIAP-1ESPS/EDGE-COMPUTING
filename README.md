@@ -17,12 +17,11 @@ Simulação do Nível de Energia Armazenada: O sensor ultrassônico simula o ní
 Indicadores Visuais com LEDs: LED Verde: Sistema operando em nível ideal; LED Amarelo: Nível médio de energia; LED Vermelho: Alerta de baixo nível de energia ou condições climáticas desfavoráveis.
 Exibição no LCD: Temperatura e umidade; Nível de energia (em %); Mensagens educativas.
 
-## Circuito
-![image](https://github.com/user-attachments/assets/c72b97b1-cc72-4ce0-8383-38c15d2f3d01)
-
-
 ## Objetivo do Projeto
 Monitorar as condições ambientais que impactam a produção de energia renovável (e.g., vento, temperatura).
 Simular o funcionamento de uma micro-rede comunitária de armazenamento e consumo de energia.
 Educar usuários sobre práticas de sustentabilidade e eficiência energética.
 Demonstrar um modelo de coleta e exibição de dados para tomada de decisões em uma micro-rede.
+
+## Circuito
+![image](https://github.com/user-attachments/assets/c72b97b1-cc72-4ce0-8383-38c15d2f3d01)
