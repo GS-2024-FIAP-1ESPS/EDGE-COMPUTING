@@ -14,9 +14,10 @@ le simula um sistema de monitoramento para micro-redes comunitárias de energia 
 
 ---
 
-## Link para Simulação 🌐 
+## Link para Simulação e Vídeo explicativo 🌐 
 
 **Wowki**: [Clique aqui para acessar a simulação](https://wokwi.com/projects/414817325892975617)
+**Drive**: [Clique aqui para acessar o vídeo explicativo](https://drive.google.com/file/d/1rzbvoD4TyJCZXZGgErpk0mAWk938csAu/view?usp=sharing)
 
 ---
 
